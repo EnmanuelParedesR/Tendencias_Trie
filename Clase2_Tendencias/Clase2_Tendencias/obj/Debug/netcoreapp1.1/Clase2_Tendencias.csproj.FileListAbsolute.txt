@@ -1,0 +1,7 @@
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\bin\Debug\netcoreapp1.1\Clase2_Tendencias.deps.json
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\bin\Debug\netcoreapp1.1\Clase2_Tendencias.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\bin\Debug\netcoreapp1.1\Clase2_Tendencias.pdb
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\obj\Debug\netcoreapp1.1\Clase2_Tendencias.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\obj\Debug\netcoreapp1.1\Clase2_Tendencias.AssemblyInfo.cs
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\obj\Debug\netcoreapp1.1\Clase2_Tendencias.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\Clase2_Tendencias\obj\Debug\netcoreapp1.1\Clase2_Tendencias.pdb

@@ -1,0 +1,14 @@
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.pdb
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.pdb
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\Clase2_Tendencias.dll
+c:\users\ema\documents\visual studio 2017\Projects\Clase2_Tendencias\UnitTestProject1\bin\Debug\netcoreapp1.1\Clase2_Tendencias.pdb

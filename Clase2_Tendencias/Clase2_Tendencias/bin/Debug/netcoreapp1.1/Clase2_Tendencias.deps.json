@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "34528b65bfa45f4a9cc2525c6705198f3d64f4a2"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "clase2_tendencias/1.0.0": {
+        "dependencies": {
+          "VDS.Common": "1.10.0"
+        },
+        "runtime": {
+          "Clase2_Tendencias.dll": {}
+        }
+      },
+      "vds.common/1.10.0": {
+        "runtime": {
+          "lib/netstandard1.4/VDS.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase2_tendencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "vds.common/1.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lvqLezZHYcgBfhNDcRKTICuvRQGhYaFrITqhTbqDp4mli1SES2iwlGI3TxLxygcAiyRUJ/ieHCmX1WsF+PGMNg==",
+      "path": "vds.common/1.10.0",
+      "hashPath": "vds.common.1.10.0.nupkg.sha512"
+    }
+  }
+}
