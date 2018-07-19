@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrieTest", "TrieTest\TrieTest.csproj", "{08D12BF9-D728-455F-B36F-2AE52AB203FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie\Trie.csproj", "{18FD5B48-54F1-432F-8131-9DC65B5C66E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D12BF9-D728-455F-B36F-2AE52AB203FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D12BF9-D728-455F-B36F-2AE52AB203FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D12BF9-D728-455F-B36F-2AE52AB203FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D12BF9-D728-455F-B36F-2AE52AB203FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FD5B48-54F1-432F-8131-9DC65B5C66E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FD5B48-54F1-432F-8131-9DC65B5C66E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FD5B48-54F1-432F-8131-9DC65B5C66E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FD5B48-54F1-432F-8131-9DC65B5C66E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

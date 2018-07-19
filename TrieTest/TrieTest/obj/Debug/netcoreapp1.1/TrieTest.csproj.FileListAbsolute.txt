@@ -1,0 +1,14 @@
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.deps.json
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.runtimeconfig.json
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.runtimeconfig.dev.json
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.dll
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.pdb
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Trie.dll
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Trie.pdb
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.AssemblyInfo.cs
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.dll
+c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.pdb

@@ -1,0 +1,7 @@
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\bin\Debug\netcoreapp1.1\Trie.deps.json
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\bin\Debug\netcoreapp1.1\Trie.dll
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\bin\Debug\netcoreapp1.1\Trie.pdb
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.csprojResolveAssemblyReference.cache
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.AssemblyInfo.cs
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.dll
+c:\Users\ema\documents\visual studio 2017\Projects\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.pdb
