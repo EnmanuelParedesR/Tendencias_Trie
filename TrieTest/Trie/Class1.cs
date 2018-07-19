@@ -5,8 +5,6 @@ using System.Text;
 
 namespace Trie
 {
-    public class DuplicaKeyExpception : System.Exception { }
-    public class KeyWithANumberException : System.Exception { }
 
     public class Trie<Value>
     {
@@ -26,13 +24,13 @@ namespace Trie
 
         TrieNode root = new TrieNode();
 
-        public void Add(string key, Value value)
+        public int Add(string key, Value value)
         {
             if (key == null)
-                return;
+                return -1;
 
             if (key.Any(c => char.IsDigit(c)))
-                throw new KeyWithANumberException();
+                return -1;              // -1 = Error Found (Digit
 
             key = key.ToLower();
             TrieNode cur = root;
@@ -49,9 +47,12 @@ namespace Trie
                 cur = nxt;
             }
             if (cur.key != null)
-                throw new DuplicaKeyExpception();
+                return -1;
+
             cur.key = key;
             cur.value = value;
+
+            return 0; // 0 = No problem with the process 
         }
 
         public string FindAllSimilarWords(string key)
@@ -61,7 +62,7 @@ namespace Trie
 
             
             if (key.Any(c => char.IsDigit(c)))
-                throw new KeyWithANumberException();
+                return "Key with one or more digit";
 
             key = key.ToLower();
             TrieNode cur = root;
@@ -98,7 +99,7 @@ namespace Trie
                 return null;
 
             if (key.Any(c => char.IsDigit(c)))
-                throw new KeyWithANumberException();
+                return "Key with one or more digit";
             TrieNode cur = root;
             foreach (char c in key)
             {

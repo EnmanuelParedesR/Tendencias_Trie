@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\Trie\\Trie.csproj",
+      "projectUniqueName": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\Trie\\Trie.csproj",
       "projectName": "Trie",
-      "projectPath": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\Trie\\Trie.csproj",
-      "outputPath": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\Trie\\obj\\",
+      "projectPath": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\Trie\\Trie.csproj",
+      "outputPath": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\Trie\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

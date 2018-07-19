@@ -8510,10 +8510,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\TrieTest\\TrieTest.csproj",
+      "projectUniqueName": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\TrieTest\\TrieTest.csproj",
       "projectName": "TrieTest",
-      "projectPath": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\TrieTest\\TrieTest.csproj",
-      "outputPath": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\TrieTest\\obj\\",
+      "projectPath": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\TrieTest\\TrieTest.csproj",
+      "outputPath": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\TrieTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8521,8 +8521,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\Trie\\Trie.csproj": {
-              "projectPath": "C:\\Users\\ema\\Documents\\Visual Studio 2017\\Projects\\TrieTest\\Trie\\Trie.csproj"
+            "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\Trie\\Trie.csproj": {
+              "projectPath": "C:\\Users\\ema\\Desktop\\GitHub\\Tendencias_Trie\\TrieTest\\Trie\\Trie.csproj"
             }
           }
         }
