@@ -30,10 +30,14 @@ namespace Trie
                 return -1;
 
             if (key.Any(c => char.IsDigit(c)))
-                return -1;              // -1 = Error Found (Digit
+                return -1;              // -1 = Error Found 
 
             if (key.Any(c => char.IsWhiteSpace(c)))
                 return -1;
+
+            if (key == "")
+                return -1;
+
 
             key = key.ToLower();
             TrieNode cur = root;
@@ -60,7 +64,7 @@ namespace Trie
 
         public string FindAllSimilarWords(string key)
         {
-   
+        
             if (key.Any(c => char.IsDigit(c)))
                 return null;
 
@@ -92,10 +96,7 @@ namespace Trie
                     SimilarWords.Add(c.key);
             }
 
-
-            string returned = ListToArray(SimilarWords);
-            
-            return returned;
+            return ListToArray(SimilarWords);
         }
 
         private string ListToArray(List<String> List)
@@ -114,11 +115,8 @@ namespace Trie
                 }
 
             }
-            
             return sb.ToString();
         }
-
-
 
         private string FindOneWord(string key)
         {
@@ -159,9 +157,5 @@ namespace Trie
             }
             return sb.ToString();
         }
-
-
-
     }
-
 }
