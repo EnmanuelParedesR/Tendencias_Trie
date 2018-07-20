@@ -12,3 +12,12 @@ C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.
 C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.AssemblyInfo.cs
 C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.dll
 C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.pdb
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\bin\Debug\netcoreapp1.1\Trie.deps.json
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\bin\Debug\netcoreapp1.1\Trie.dll
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\bin\Debug\netcoreapp1.1\Trie.pdb
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.csprojAssemblyReference.cache
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.csproj.CoreCompileInputs.cache
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.AssemblyInfoInputs.cache
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.AssemblyInfo.cs
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.dll
+F:\Repositories\GitHub\Tendencias_Trie\TrieTest\Trie\obj\Debug\netcoreapp1.1\Trie.pdb

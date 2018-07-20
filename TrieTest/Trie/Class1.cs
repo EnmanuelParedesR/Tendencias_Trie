@@ -26,7 +26,7 @@ namespace Trie
 
         public int Add(string key, Value value)
         {
-            if (key == null)
+            if (key == null || key.Length <= 0)
                 return -1;
 
             if (key.Any(c => char.IsDigit(c)))
@@ -64,7 +64,13 @@ namespace Trie
 
         public string FindAllSimilarWords(string key)
         {
+<<<<<<< HEAD
         
+=======
+            if (key == null || key.Length <= 0)
+                return null;
+   
+>>>>>>> 883d6fc2ba1526b40278994624772250ea6d7e8d
             if (key.Any(c => char.IsDigit(c)))
                 return null;
 
