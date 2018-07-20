@@ -62,12 +62,16 @@ namespace Trie
         {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         
 =======
             if (key == null || key.Length <= 0)
                 return null;
    
 >>>>>>> 883d6fc2ba1526b40278994624772250ea6d7e8d
+=======
+   
+>>>>>>> parent of 8d424e3... Final Version
 =======
    
 >>>>>>> parent of 8d424e3... Final Version

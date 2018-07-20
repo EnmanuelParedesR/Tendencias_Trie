@@ -14,6 +14,7 @@ namespace TrieTest
 
             int result = Words.Add("", "");
 
+<<<<<<< HEAD
             // We are not taking the Upper cases.
 
             Assert.AreEqual(-1, result);
@@ -75,6 +76,14 @@ namespace TrieTest
 =======
         
 >>>>>>> parent of 8d424e3... Final Version
+=======
+              // We are not taking the Upper cases.
+    
+            Assert.AreEqual("jesu",Words.FindAllSimilarWords("jesu")); //We need to override the ToString Method.
+        }
+
+        
+>>>>>>> parent of 8d424e3... Final Version
         [TestMethod]
         public void AddMultiplesWord()
         {
@@ -98,6 +107,7 @@ namespace TrieTest
           
 
 <<<<<<< HEAD
+<<<<<<< HEAD
             Assert.AreEqual(null, Words.FindAllSimilarWords("jesu1"));
 =======
             Words.Add("jesu", "HolaMen");
@@ -105,6 +115,8 @@ namespace TrieTest
             Words.Add("jesus", "HolaMen");
             Words.Add("jesuz", "HolaMen");
 =======
+=======
+>>>>>>> parent of 8d424e3... Final Version
 
             Assert.AreEqual(null, Words.FindAllSimilarWords("jesu1"));  
         }
@@ -123,6 +135,7 @@ namespace TrieTest
             Words.Add(" ", "HolaMen");
 
      
+<<<<<<< HEAD
 
             Assert.AreEqual("", Words.FindAllSimilarWords("")); 
         }
@@ -188,6 +201,13 @@ namespace TrieTest
 =======
 >>>>>>> 883d6fc2ba1526b40278994624772250ea6d7e8d
 =======
+>>>>>>> parent of 8d424e3... Final Version
+=======
+
+            Assert.AreEqual("", Words.FindAllSimilarWords("")); 
+        }
+
+
 >>>>>>> parent of 8d424e3... Final Version
     }
 }
