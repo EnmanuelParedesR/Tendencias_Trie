@@ -32,6 +32,9 @@ namespace Trie
             if (key.Any(c => char.IsDigit(c)))
                 return -1;              // -1 = Error Found (Digit
 
+            if (key.Any(c => char.IsWhiteSpace(c)))
+                return -1;
+
             key = key.ToLower();
             TrieNode cur = root;
 
@@ -57,12 +60,12 @@ namespace Trie
 
         public string FindAllSimilarWords(string key)
         {
-            if (key == null)
+   
+            if (key.Any(c => char.IsDigit(c)))
                 return null;
 
-            
-            if (key.Any(c => char.IsDigit(c)))
-                return "Key with one or more digit";
+            if (key.Any(c => char.IsWhiteSpace(c)))
+                return null;
 
             key = key.ToLower();
             TrieNode cur = root;
@@ -88,10 +91,34 @@ namespace Trie
                 if (c != null)
                     SimilarWords.Add(c.key);
             }
-            String a = SimilarWords.ToString();
+
+
+            string returned = ListToArray(SimilarWords);
             
-            return SimilarWords.ToString();
+            return returned;
         }
+
+        private string ListToArray(List<String> List)
+        { 
+            StringBuilder sb = new StringBuilder();
+
+            for (int i = 0; i < SimilarWords.Count; i++)
+            {
+                if (List.Count == 1 || i == List.Count - 1)
+                {
+                    sb.Append(List[i] + "");
+                }
+                else
+                {
+                    sb.Append(List[i] + " ");
+                }
+
+            }
+            
+            return sb.ToString();
+        }
+
+
 
         private string FindOneWord(string key)
         {
@@ -112,13 +139,23 @@ namespace Trie
             return cur.key;
         }
 
-        public override string ToString()  //This isn't working, i don't know why.
+        public override string ToString()  //Print all the values in the dictionary (trie)
         {
             StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < SimilarWords.Count; i++)
+
+            int count = 0;
+
+            foreach(var a in root.children)
             {
                 
-                sb.Append(SimilarWords[i] + " ");
+                if (SimilarWords.Count == 1 || count == SimilarWords.Count - 1)
+                {
+                    sb.Append(root.children + "");
+                }
+                else
+                {
+                    sb.Append(root.children + " ");
+                }
             }
             return sb.ToString();
         }

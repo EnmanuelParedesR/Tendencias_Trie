@@ -12,3 +12,17 @@ c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\n
 c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.AssemblyInfo.cs
 c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.dll
 c:\users\ema\documents\visual studio 2017\Projects\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.pdb
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.deps.json
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.runtimeconfig.json
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.runtimeconfig.dev.json
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.dll
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\TrieTest.pdb
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Trie.dll
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\bin\Debug\netcoreapp1.1\Trie.pdb
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.AssemblyInfo.cs
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.dll
+C:\Users\ema\Desktop\GitHub\Tendencias_Trie\TrieTest\TrieTest\obj\Debug\netcoreapp1.1\TrieTest.pdb
